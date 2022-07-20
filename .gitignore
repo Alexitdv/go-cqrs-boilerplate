@@ -1,0 +1,10 @@
+#IDE stuff
+.idea
+.DS_Store
+
+#Dependecies api
+api/protobuf/services
+
+#Code
+vendor
+configs/env/.env.dev
